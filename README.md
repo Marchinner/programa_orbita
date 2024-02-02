@@ -9,5 +9,5 @@ Fruto de uma Iniciação Científica pelo IFSP - Birigui, tendo como discente o 
 #### Programa
 ![imagemPrograma](https://user-images.githubusercontent.com/67171908/121971427-15fdd800-cd4f-11eb-9c89-1ff5cb4a6609.png)
 
-#### Cálculo feito tendo como referência o planeja Júpter e comparado com informações da Wiki
+#### Cálculo feito tendo como referência o planeta Júpiter e comparado com informações da Wiki
 ![Captura de tela de 2021-06-14 19-44-15](https://user-images.githubusercontent.com/67171908/121971534-4cd3ee00-cd4f-11eb-8b3e-6aca08325254.png)
